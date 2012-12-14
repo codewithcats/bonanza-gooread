@@ -47,7 +47,7 @@ return array(
 		),
 		*/
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=gooRead',
+			'connectionString' => 'mysql:host=127.0.0.1;dbname=gooRead',
 			'emulatePrepare' => true,
 			'username' => 'root',
 			'password' => '1234',
